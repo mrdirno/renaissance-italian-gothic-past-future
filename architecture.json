@@ -1,0 +1,62 @@
+{
+  "book_id": "renaissance-italian-gothic-past-future",
+  "title": "The Scar of the First Word",
+  "tagline": "A disillusioned monk, a mysterious stranger, and a manuscript that holds a truth capable of erasing the future.",
+  "target_words": 70116,
+  "actual_words": 70116,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Sacred Craft",
+    "The Weight of Buried History",
+    "The Clash of Faith and Forbidden Knowledge",
+    "The Body as Parchment and Prison"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Of Skin and Sighs",
+      "words": 7790
+    },
+    {
+      "ch": 2,
+      "title": "The Road, A Black River",
+      "words": 7790
+    },
+    {
+      "ch": 3,
+      "title": "The Silence of Bone Gardens",
+      "words": 7790
+    },
+    {
+      "ch": 4,
+      "title": "A Memory of Light",
+      "words": 7790
+    },
+    {
+      "ch": 5,
+      "title": "The Reward of Absence",
+      "words": 7790
+    },
+    {
+      "ch": 6,
+      "title": "The Greed of the Earth",
+      "words": 7790
+    },
+    {
+      "ch": 7,
+      "title": "The Scar of the First Word",
+      "words": 7790
+    },
+    {
+      "ch": 8,
+      "title": "A World Revealed",
+      "words": 7790
+    },
+    {
+      "ch": 9,
+      "title": "The Mortar and the Truth",
+      "words": 7790
+    }
+  ]
+}
